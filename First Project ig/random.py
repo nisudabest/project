@@ -13,3 +13,6 @@ print("oye balle balle")
 print("oye balle balle")
 v = 9
 print(v)
+
+u = 0
+print(u)
