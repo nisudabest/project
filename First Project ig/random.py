@@ -20,3 +20,6 @@ print(u)
 
 b = 3
 print(b)
+
+d = 9
+print(d)
