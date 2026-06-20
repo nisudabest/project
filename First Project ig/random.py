@@ -16,3 +16,7 @@ print(v)
 
 u = 0
 print(u)
+
+
+b = 3
+print(b)
