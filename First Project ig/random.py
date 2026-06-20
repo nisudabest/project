@@ -11,3 +11,5 @@ print(x)
 print("oye balle balle")
 
 print("oye balle balle")
+v = 9
+print(v)
