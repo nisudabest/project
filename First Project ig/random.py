@@ -1,0 +1,9 @@
+x=0
+y=x+5
+print(x)
+for y in range(5):
+    print(y)
+
+    print("Hello World")
+    print("oye balle balle")
+print(x)    
